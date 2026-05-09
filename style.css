@@ -7,7 +7,7 @@ body {
 
 nav {
     background-color: #ffffff;
-    padding: 25px 5%;
+    padding: 15px 50px;
     color: #000000;
     border-bottom: 1px solid #e0e0e0;
 }
@@ -31,7 +31,7 @@ nav {
 }
 
 .logo span {
-    font-weight: 900;
+    font-weight: bold;
     font-size: 20px;
     letter-spacing: 1px;
     color: #000000;
@@ -49,5 +49,5 @@ nav ul li a {
     color: #000000;
     text-decoration: none;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 600; /* Ketebalan sedang */
 }
