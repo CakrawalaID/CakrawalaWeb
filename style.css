@@ -6,9 +6,10 @@ body {
 }
 
 nav {
-    background-color: #000000;
+    background-color: #ffffff;
     padding: 15px 50px;
-    color: #ffffff;
+    color: #000000;
+    border-bottom: 1px solid #e0e0e0; /* Garis border abu muda */
 }
 
 .nav-container {
@@ -33,6 +34,7 @@ nav {
     font-weight: bold;
     font-size: 20px;
     letter-spacing: 1px;
+    color: #000000;
 }
 
 nav ul {
@@ -44,7 +46,7 @@ nav ul {
 }
 
 nav ul li a {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
     font-size: 14px;
     font-weight: 500;
