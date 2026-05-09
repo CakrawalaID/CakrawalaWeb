@@ -12,7 +12,7 @@ body {
 /* Navbar */
 .navbar {
     width: 100%;
-    height: 60px;
+    height: 70px;
     background-color: #ffffff;
     border-bottom: 1px solid #ddd;
     display: flex;
@@ -31,7 +31,7 @@ body {
 
 /* Sidebar Kiri */
 .sidebar {
-    width: 250px;
+    width: 100px;
     height: calc(100vh - 60px);
     background-color: #ffffff;
     border-right: 1px solid #ddd;
@@ -56,6 +56,6 @@ body {
 /* Konten Utama di sebelah kanan sidebar */
 .main-content {
     flex: 1;
-    margin-left: 250px; /* Lebar yang sama dengan sidebar */
+    margin-left: 100px; /* Lebar yang sama dengan sidebar */
     padding: 20px;
 }
