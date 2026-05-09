@@ -27,7 +27,7 @@ body {
 
 /* Sidebar Kiri - Menumpuk ke Atas */
 .sidebar {
-    width: 50px; /* Lebar Sidebar */
+    width: 80px; /* Lebar Sidebar */
     height: 100vh; /* Full tinggi layar */
     background-color: #ffffff;
     border-right: 1px solid #ddd;
@@ -59,7 +59,7 @@ body {
 
 .main-content {
     flex: 1;
-    margin-left: 50px; /* Samakan dengan lebar sidebar */
+    margin-left: 80px; /* Samakan dengan lebar sidebar */
     margin-top: 70px;  /* Samakan dengan tinggi navbar agar konten tidak tertutup */
     padding: 20px;
 }
